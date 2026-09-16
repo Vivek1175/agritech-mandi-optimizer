@@ -69,7 +69,7 @@ Real numbers from this run: **Wheat has the highest total arrivals**
 (991,324 quintals across 4,431 reports), followed by Mustard (982,393 q)
 and Sugarcane (966,862 q).
 
-## Why these engineering choices (viva prep)
+## Why these engineering choices 
 
 | Decision | Reason |
 |---|---|
